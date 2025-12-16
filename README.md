@@ -55,4 +55,4 @@ Built with:
 
 This is just a simple tool I made because I wanted something straightforward. If it helps you too, that's great. If you need more features, there are plenty of other excellent yt-dlp frontends out there with more options.
 
-If you have already installed ffpmeg and included it in your system PATH, feel free to delete the bundled ffmpeg folder, it takes up so much damn space.
+**If you have already installed ffpmeg and included it in your system PATH, feel free to delete the bundled ffmpeg folder, it takes up so much damn space.**
