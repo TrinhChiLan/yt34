@@ -2,7 +2,7 @@
 
 A simple YouTube downloader that just works.
 
-[image](https://github.com/TrinhChiLan/yt34/blob/2a256a288b635291d7d68bfbc5b6ff11751c4267/preview.png)
+![very basic ui with a box to input url, box to input download directory, and two download options mp3 and mp4](https://github.com/TrinhChiLan/yt34/blob/2a256a288b635291d7d68bfbc5b6ff11751c4267/preview.png)
 
 ## What is this?
 
