@@ -27,9 +27,10 @@ If you need advanced options, you should check out the command-line version of y
 
 YT34 comes bundled with everything it needs, including ffmpeg binaries. 
 
-1. Download the latest release
-2. Run the executable
-3. You're done
+1. [Download the latest release](https://github.com/TrinhChiLan/yt34/releases)
+2. Extract the zip file
+3. Run the executable
+4. You're done
 
 ## Usage
 
